@@ -1,0 +1,100 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\subra\\Desktop\\Subbu_FINAL_BRANCH_CHANGE\\DEVOPS_test\\Tools\\CSVConverter\\Test\\CSVConverterTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\subra\\Desktop\\Subbu_FINAL_BRANCH_CHANGE\\DEVOPS_test\\Tools\\CSVConverter\\Source\\CSVConverter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\subra\\Desktop\\Subbu_FINAL_BRANCH_CHANGE\\DEVOPS_test\\Tools\\CSVConverter\\Source\\CSVConverter.csproj",
+        "projectName": "CSVConverter",
+        "projectPath": "C:\\Users\\subra\\Desktop\\Subbu_FINAL_BRANCH_CHANGE\\DEVOPS_test\\Tools\\CSVConverter\\Source\\CSVConverter.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\subra\\Desktop\\Subbu_FINAL_BRANCH_CHANGE\\DEVOPS_test\\Tools\\CSVConverter\\Test\\CSVConverterTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\subra\\Desktop\\Subbu_FINAL_BRANCH_CHANGE\\DEVOPS_test\\Tools\\CSVConverter\\Test\\CSVConverterTests.csproj",
+        "projectName": "CSVConverterTests",
+        "projectPath": "C:\\Users\\subra\\Desktop\\Subbu_FINAL_BRANCH_CHANGE\\DEVOPS_test\\Tools\\CSVConverter\\Test\\CSVConverterTests.csproj",
+        "packagesPath": "C:\\Users\\subra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\subra\\Desktop\\Subbu_FINAL_BRANCH_CHANGE\\DEVOPS_test\\Tools\\CSVConverter\\Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\subra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\subra\\Desktop\\Subbu_FINAL_BRANCH_CHANGE\\DEVOPS_test\\Tools\\CSVConverter\\Source\\CSVConverter.csproj": {
+                "projectPath": "C:\\Users\\subra\\Desktop\\Subbu_FINAL_BRANCH_CHANGE\\DEVOPS_test\\Tools\\CSVConverter\\Source\\CSVConverter.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit.Console": {
+              "target": "Package",
+              "version": "[3.11.1, )"
+            },
+            "NUnit.ConsoleRunner": {
+              "target": "Package",
+              "version": "[3.11.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0-beta.1, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.0.0-alpha05, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.0.0-alpha05, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[83.0.4103.3900-beta, )"
+            },
+            "Selenium.WebDriver.IEDriver": {
+              "target": "Package",
+              "version": "[3.150.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

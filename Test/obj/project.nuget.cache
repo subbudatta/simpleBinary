@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "sM29ASKj1CNb2iR0O2GpaMa5jGpyh9FKf5ppR6uBZOVWjEPjriV5tbd6/qCQPKMJACujKZbqGZCAX7zQEdrkRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\subra\\Desktop\\Subbu_FINAL_BRANCH_CHANGE\\DEVOPS_test\\Tools\\CSVConverter\\Test\\CSVConverterTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\subra\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\subra\\.nuget\\packages\\nunit.console\\3.11.1\\nunit.console.3.11.1.nupkg.sha512",
+    "C:\\Users\\subra\\.nuget\\packages\\nunit.consolerunner\\3.11.1\\nunit.consolerunner.3.11.1.nupkg.sha512",
+    "C:\\Users\\subra\\.nuget\\packages\\nunit.extension.nunitprojectloader\\3.6.0\\nunit.extension.nunitprojectloader.3.6.0.nupkg.sha512",
+    "C:\\Users\\subra\\.nuget\\packages\\nunit.extension.nunitv2driver\\3.8.0\\nunit.extension.nunitv2driver.3.8.0.nupkg.sha512",
+    "C:\\Users\\subra\\.nuget\\packages\\nunit.extension.nunitv2resultwriter\\3.6.0\\nunit.extension.nunitv2resultwriter.3.6.0.nupkg.sha512",
+    "C:\\Users\\subra\\.nuget\\packages\\nunit.extension.teamcityeventlistener\\1.0.7\\nunit.extension.teamcityeventlistener.1.0.7.nupkg.sha512",
+    "C:\\Users\\subra\\.nuget\\packages\\nunit.extension.vsprojectloader\\3.8.0\\nunit.extension.vsprojectloader.3.8.0.nupkg.sha512",
+    "C:\\Users\\subra\\.nuget\\packages\\nunit3testadapter\\3.17.0-beta.1\\nunit3testadapter.3.17.0-beta.1.nupkg.sha512",
+    "C:\\Users\\subra\\.nuget\\packages\\selenium.support\\4.0.0-alpha05\\selenium.support.4.0.0-alpha05.nupkg.sha512",
+    "C:\\Users\\subra\\.nuget\\packages\\selenium.webdriver\\4.0.0-alpha05\\selenium.webdriver.4.0.0-alpha05.nupkg.sha512",
+    "C:\\Users\\subra\\.nuget\\packages\\selenium.webdriver.chromedriver\\83.0.4103.3900-beta\\selenium.webdriver.chromedriver.83.0.4103.3900-beta.nupkg.sha512",
+    "C:\\Users\\subra\\.nuget\\packages\\selenium.webdriver.iedriver\\3.150.1\\selenium.webdriver.iedriver.3.150.1.nupkg.sha512"
+  ],
+  "logs": []
+}
